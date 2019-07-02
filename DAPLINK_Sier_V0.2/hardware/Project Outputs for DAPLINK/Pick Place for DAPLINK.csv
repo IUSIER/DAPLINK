@@ -1,0 +1,63 @@
+Altium Designer Pick and Place Locations
+D:\MCU研究学习\下载&编程&仿真调试器\自制CMSIS DAP&JLINK OB\DAPLink\Project Outputs for DAPLINK\Pick Place for DAPLINK.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       06/06/19
+Time:       14:15
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"T1","9013","TopLayer","SOT-23(SOT-23-3)","-1233.000","205.000","180","NPN Bipolar Transistor"
+"Y1","8MHz ±20ppm 20pF","TopLayer","SMD-5032_2P","-460.000","0.102","270","贴片晶振"
+"U2","LD3985M33R","TopLayer","SOT23-5L","-933.000","190.000","180","Ultra low drop-low noise BiCMOS voltage, regulators low ESR capacitors compatible"
+"U1","STM32F103CBT6","TopLayer","LQFP48_0R5_7x7","0.000","0.000","270","Medium-density performance line ARM-based 32-bit MCU with 128KB Flash"
+"R24","2K","TopLayer","0603_C","464.000","239.000","360","Resistor  0603"
+"R23","2K","TopLayer","0603_C","464.000","169.000","360","Resistor  0603"
+"R22","1K","TopLayer","0603_C","463.685","-257.000","360","Resistor  0603"
+"R21","22R","TopLayer","0603_C","464.000","98.000","180","Resistor  0603"
+"R20","22R","TopLayer","0603_C","464.000","27.000","180","Resistor  0603"
+"R19","22R","TopLayer","0603_C","464.000","-43.213","180","Resistor  0603"
+"R18","1K","TopLayer","0603_C","463.685","-186.000","180","Resistor  0603"
+"R17","1K","TopLayer","0603_C","464.000","-115.000","0","Resistor  0603"
+"R16","100R","TopLayer","0603_C","-1143.000","80.000","90","Resistor  0603"
+"R15","36K","TopLayer","0603_C","-1213.000","80.000","270","Resistor  0603"
+"R14","10K","TopLayer","0603_C","-1282.213","80.000","90","Resistor  0603"
+"R13","100K","TopLayer","0603_C","-933.000","-9.843","0","Resistor  0603"
+"R12","0","TopLayer","0603_C","-933.000","-155.000","180","Resistor  0603"
+"R11","0","TopLayer","0603_C","-933.000","-225.000","180","Resistor  0603"
+"R10","1K5","TopLayer","0603_C","-933.000","-85.000","180","Resistor  0603"
+"R9","100R","TopLayer","0603_C","246.000","-99.000","90","Resistor  0603"
+"R8","10K","TopLayer","0603_C","78.000","-225.000","0","Resistor  0603"
+"R7","10K","TopLayer","0603_C","-295.000","69.000","180","Resistor  0603"
+"R6","10K","TopLayer","0603_C","-295.000","170.000","180","Resistor  0603"
+"R5","4K7","TopLayer","0603_C","-295.000","-169.898","0","Resistor  0603"
+"R4","4K7","TopLayer","0603_C","-295.315","-99.897","180","Resistor  0603"
+"R3","100K","TopLayer","0603_C","-631.000","-25.582","270","Resistor  0603"
+"R1","100K","TopLayer","0603_C","-295.000","258.000","360","Resistor 0603"
+"P3","Header 5","BottomLayer","HDR2.54-M-WS-5P-2D","1159.000","-5.000","90","Header, 5-Pin"
+"P2","Header 5","TopLayer","HDR2.54-M-WS-5P-2D","1159.000","-5.000","90","Header, 5-Pin"
+"P1","Header 4","TopLayer","HDR1X4","155.000","279.000","180","Header, 4-Pin"
+"F1","FUSE_500MA","TopLayer","1206_C","-1288.000","-253.000","0","自恢复保险丝_SMD1206_500ma"
+"D6","黄灯 0603","TopLayer","0603_LED_S1","636.000","239.000","180","发光二极管"
+"D5","黄灯 0603","TopLayer","0603_LED_S1","636.000","169.000","180","发光二极管"
+"D4","红灯 0603","TopLayer","0603_LED_S1","638.370","-257.000","180","发光二极管"
+"D3","绿灯 0603","TopLayer","0603_LED_S1","638.685","-186.000","360","发光二极管"
+"D2","红灯 0603","TopLayer","0603_LED_S1","638.370","-115.000","180","发光二极管"
+"D1","BAT60JFILM","TopLayer","SOD-323","-928.000","75.000","0","BAT60JFILM"
+"CN1","U-F-M5DW-Y-2","TopLayer","MICRO-USB","-1434.134","-3.000","90","USB-Micro-typeB connector"
+"C12","100nF","TopLayer","0603_C","-711.000","-87.000","270","Capacitor  0603  100nF"
+"C11","1uF","TopLayer","0603_C","-784.000","-87.000","270","Capacitor 0603 1uF"
+"C10","10nF","TopLayer","0603_C","-1058.000","258.000","90","Capacitor  0603  10nF"
+"C9","100nF","TopLayer","0603_C","-764.000","227.401","360","Capacitor 0603 100nF"
+"C8","1uF","TopLayer","0603_C","-792.000","120.000","90","Capacitor 0603 1uF"
+"C7","100nF","TopLayer","0603_C","-598.000","-237.000","90","Capacitor 0603 100nF"
+"C6","100nF","TopLayer","0603_C","-666.000","-237.000","90","Capacitor 0603 100nF"
+"C5","100nF","TopLayer","0603_C","-734.000","-237.000","90","Capacitor  0603  100nF"
+"C4","100nF","TopLayer","0603_C","-800.000","-237.000","90","Capacitor  0603  100nF"
+"C3","100nF","TopLayer","0603_C","-631.000","98.787","270","Capacitor  0603 100nF"
+"C2","20pF","TopLayer","0603_C","-460.000","170.102","360","Capacitor  0603 20pF"
+"C1","20pF","TopLayer","0603_C","-460.000","-169.898","360","Capacitor  0603 20pF"

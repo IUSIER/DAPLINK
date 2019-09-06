@@ -2,4 +2,4 @@ The folder named firmware is compiled and generated on the basis of ARM's offici
 So this folder contains all complete Keil projects compared to the ARMmbed version. 
 As for how to process the official source files to get the firmware I want, I will upload Chinese instructions later.
 
-The offical network of ARMmbed is https://github.com/ARMmbed/DAPLink.
+The offical website of ARMmbed is https://github.com/ARMmbed/DAPLink.

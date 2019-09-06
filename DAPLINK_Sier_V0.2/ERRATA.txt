@@ -1,0 +1,3 @@
+There is a major problem with this version of the hardware circuit！！！
+Due to my mistake in designing PcbDoc, I reversed the image of the MicroUSB interface to make the +5V power input become -5v input. 
+Similarly, DM and DP are also inversely connected.
